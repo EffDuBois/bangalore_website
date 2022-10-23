@@ -84,7 +84,7 @@ background-color: #457B9D;
     max-width: 50%;
     background-color: #A8DADC;
     display: flex;
-    border-bottom: solid 8px #1D3557;
+    box-shadow: 0px 8px 0px #1D3557;
     
 
 }
